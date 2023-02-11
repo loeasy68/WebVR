@@ -1,2 +1,2 @@
 # WebVR
-Make VR scenes in javascrit
+Make VR scenes in javascript
